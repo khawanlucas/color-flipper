@@ -28,6 +28,10 @@ Or simply access it via your browser.
 2. The text color will automatically switch to black or white, depending on the selected color's brightness.
 3. The *Random* button generates a dinamically created color.
 
+## 📷 Demonstration
+![Description](./assets/color-flipper-demo.gif)
+
+
 ## 🔮 Future improvements
 - Add a custom color picker
 - Allow to save favorite colors
