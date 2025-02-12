@@ -1,9 +1,9 @@
-# Color Picker 🎨
+# Color Flipper 🎨
 
 Change the website background color dynamically with one click!
 
 ## 📌 Description 
-Color Picker is a simple JavaScript project that allows users to modify the website background color randomly or select between predefined colors. Additionally, the text color automatically adjusts to ensure readability.
+Color Flipper is a simple JavaScript project that allows users to modify the website background color randomly or select between predefined colors. Additionally, the text color automatically adjusts to ensure readability.
 
 ## 🚀 Features
 ✅ Changing the background colors via buttons  
